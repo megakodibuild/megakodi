@@ -1,10 +1,10 @@
 id="plugin.program.adriwizard"
 version="0.4.5"
-zip="https://ddownload.com/tza7da9coq77/koditest.zip"
+zip="https://github.com/megakodibuild/megakodi/blob/main/adrikodibeta.zip"
 
 name="plugin.program.adriwizard"
 version="1.0"
-url="https://ddownload.com/tza7da9coq77/koditest.zip"
+url="https://github.com/megakodibuild/megakodi/blob/main/adrikodibeta.zip"
 minor="http://"
 gui="url.to.guisettings"
 kodi="21"
