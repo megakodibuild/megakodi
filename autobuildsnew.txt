@@ -4,7 +4,7 @@ zip="https://github.com/megakodibuild/megakodi/raw/refs/heads/main/adrikodibeta.
 
 name="plugin.program.adriwizard"
 version="3.0"
-url="https://github.com/megakodibuild/megakodi/raw/refs/heads/main/adrikodibeta.zip"
+url="https://github.com/megakodibuild/megakodi/raw/refs/heads/main/Build/megakodi.build.zip"
 minor="http://"
 gui="url.to.guisettings"
 kodi="21"
