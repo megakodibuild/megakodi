@@ -18,7 +18,7 @@ description="A short description of the build."
 
 name="Example Build 2"
 version="3.0"
-url="https://github.com/megakodibuild/megakodi/raw/refs/heads/main/adrikodibeta.zip"
+url="https://github.com/megakodibuild/megakodi/raw/refs/heads/main/Build/megakodi.build.zip"
 minor="http://"
 gui="url.to.guisettings"
 kodi="18.0"
