@@ -1,8 +1,8 @@
-id="plugin.program.adriwizard"
+id="megakodi.build"
 version="0.4.5"
-zip="https://github.com/megakodibuild/megakodi/raw/refs/heads/main/adrikodibeta.zip"
+zip="https://github.com/megakodibuild/megakodi/raw/refs/heads/main/Build/megakodi.build.zip"
 
-name="plugin.program.adriwizard"
+name="megakodi.build"
 version="3.0"
 url="https://github.com/megakodibuild/megakodi/raw/refs/heads/main/Build/megakodi.build.zip"
 minor="http://"
