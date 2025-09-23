@@ -4,7 +4,7 @@ zip="url.to.wizard"
 
 name="megakodi.build"
 version="3.0"
-url="https://megakodibuild.github.io/megakodi/megakodi.build.zip"
+url="https://github.com/megakodibuild/megakodi/releases/latest/download/megakodi.build.zip"
 minor="http://"
 gui="url.to.guisettings"
 kodi="21"
@@ -18,7 +18,7 @@ description="A short description of the build."
 
 name="Example Build 2"
 version="3.0"
-url="https://github.com/megakodibuild/megakodi/raw/refs/heads/main/Build/megakodi.build.zip"
+url="https://github.com/megakodibuild/megakodi/releases/latest/download/megakodi.build.zip"
 minor="http://"
 gui="url.to.guisettings"
 kodi="18.0"
@@ -29,4 +29,5 @@ preview="https://www.youtube.com/watch?v=L_jWHffIx5E"
 adult="no"
 info="url.to.info"
 description="A short description of the build."
+
 
