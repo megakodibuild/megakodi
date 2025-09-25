@@ -1,8 +1,8 @@
-id="megakodi.build"
+id="plugin.program.megawizard"
 version="3.0.0"
 zip="https://github.com/megakodibuild/megakodi/releases/latest/download/megakodi.build.zip"
 
-name="MegaKodi Build"
+name="plugin.program.megawizard"
 version="3.0"
 url="https://github.com/megakodibuild/megakodi/releases/latest/download/megakodi.build.zip"
 minor="http://"
@@ -30,4 +30,5 @@ description="A short description of the build."
 # adult="no"
 # info="http://"
 # description="A short description of the build."
+
 
