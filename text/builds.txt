@@ -1,10 +1,10 @@
 id="plugin.program.megawizard"
 version="3.0.0"
-zip="https://github.com/megakodibuild/megakodi/releases/latest/download/megakodi.build.zip"
+zip="https://github.com/megakodibuild/megakodi/raw/refs/heads/main/megakodi.build.zip"
 
 name="plugin.program.megawizard"
 version="3.0"
-url="https://github.com/megakodibuild/megakodi/releases/latest/download/megakodi.build.zip"
+url="https://github.com/megakodibuild/megakodi/raw/refs/heads/main/megakodi.build.zip"
 minor="http://"
 gui="http://"
 kodi="21.1"
@@ -19,7 +19,7 @@ description="A short description of the build."
 # Weitere Builds direkt unten drunter in gleicher Struktur:
 # name="Example Build 2"
 # version="1.0.0"
-# url="https://github.com/megakodibuild/megakodi/releases/latest/download/megakodi.build.zip"
+# url="https://github.com/megakodibuild/megakodi/raw/refs/heads/main/megakodi.build.zip"
 # minor="http://"
 # gui="http://"
 # kodi="18.0"
@@ -30,5 +30,6 @@ description="A short description of the build."
 # adult="no"
 # info="http://"
 # description="A short description of the build."
+
 
 
